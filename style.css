@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Rectangle_1
+{
+    background:#141414;
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    color:#fff;
+}
+.elips
+{
+    position: absolute;
+    right: 0vh;
+    height: 100vh;
+}
+.Robot
+{
+    position: absolute;
+    right: 0vh;
+    bottom: 0vh;
+    height: 95vh;
+}
+.menu{
+    position: absolute;
+    right: 2vh;
+    top: 3vh;
+    width: 2%;
+}
+.icon
+{
+    position: absolute;
+    left: 2vh;
+    top: 1.5vh;
+    width: 5%;
+}
+.AI
+{
+    position: absolute;
+    top: 25vh;
+    left: 10vh;
+    width: 80%;
+}
+.future
+{
+    position: absolute;
+    top: 20vh;
+    left: 30vh;
+    width: 15%;
+}
+.white
+{
+    position: absolute;
+    top: 38vh;
+    left: 30vh;
+    width: 0.4%;
+}
+.para
+{
+    position: absolute;
+    font-size: 15px;
+  font-family: "Bebas Neue";
+  color: rgb(255, 255, 255);
+  width: 30%;
+  top: 38vh;
+  left: 32vh;
+}
+.LINE
+{
+    position: absolute;
+    top: 17vh;
+    left: 28vh;
+    width: 32%;
+}
+.button
+{
+    position: absolute;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Bebas Neue";
+    color: rgb(255, 255, 255);
+    background:none;
+    top: 60vh;
+    left: 40vh;
+}
+.shape1
+{
+    position: absolute;
+    top: 60vh;
+    right: 30vh;
+    width: 10%;
+}
+.shape3
+{
+    position: absolute;
+    top: 15vh;
+    right: 40vh;
+    width: 7%;
+}
+.shape2
+{
+    position: absolute;
+    top: 15vh;
+    right: 0.4vh;
+    width: 15%;
+}
+.LABEL1
+{
+    font-family: "Bebas Neue";
+    position: absolute;
+    top: 12vh;
+    right: 48vh;
+}
+.LABEL2
+{
+    font-family: "Bebas Neue";
+    position: absolute;
+    top: 59vh;
+    right: 53vh;
+}
+.LABEL3
+{
+    font-family: "Bebas Neue";
+    position: absolute;
+    top: 33vh;
+    right: 2vh;
+}
+.instagram
+{
+    position: absolute;
+    width: 2%;
+    top: 38vh;
+    right: 0.8vh;
+} 
+.facebook
+{
+    position: absolute;
+    width: 2%;
+    top: 46vh;
+    right: 0.8vh;
+} 
+.discode
+{
+    position: absolute;
+    width: 2%;
+    top: 54vh;
+    right: 0.8vh;
+} 
+.linkedin
+{
+    position: absolute;
+    width: 2%;
+    top: 62vh;
+    right: 0.8vh;
+} 
+.trans
+{
+    position: absolute;
+    width: 45%;
+    height: 25vh;
+    right: 4vh;
+    bottom: 2.6vh;
+}
+.text
+{
+    position: absolute;
+    width: 38%;
+    right: 11vh;
+    bottom: 8vh;
+}
+.home{
+    position: absolute;
+    text-decoration: none;
+    left: 60vh;
+    top: 2vh;
+    font-size: 26px;
+    font-family: "Bebas Neue";
+    color: rgb(255, 255, 255);
+}
+.about
+{
+    position: absolute;
+    text-decoration: none;
+    left: 80vh;
+    top: 2vh;
+    font-size: 26px;
+    font-family: "Bebas Neue";
+    color: rgb(255, 255, 255);
+}
+.model
+{
+    position: absolute;
+    text-decoration: none;
+    left: 100vh;
+    top: 2vh;
+    font-size: 26px;
+    font-family: "Bebas Neue";
+    color: rgb(255, 255, 255);
+}
+.developer
+{
+    position: absolute;
+    text-decoration: none;
+    left: 120vh;
+    top: 2vh;
+    font-size: 26px;
+    font-family: "Bebas Neue";
+    color: rgb(255, 255, 255);
+}
+
+#preloader
+{
+    background: rgb(255, 255, 255) url(image/preloader.gif) no-repeat center;
+   background-size: 20%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
